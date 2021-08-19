@@ -11,7 +11,6 @@ public class FizzBuzzTesting {
         String actualOutput=obj.fizzbuzz();
         assertEquals(expectedOutput,actualOutput);
     }
-
     @Test
     public void toReturnBuzzIfANumberIsDivisibleByFive()
     {

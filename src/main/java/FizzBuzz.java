@@ -12,6 +12,5 @@ public class FizzBuzz {
                 return "Buzz";
             else
                 return null;
-
     }
 }
